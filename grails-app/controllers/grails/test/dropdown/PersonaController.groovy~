@@ -1,0 +1,6 @@
+package grails.test.dropdown
+
+class PersonaController {
+
+    def Persona = Persona
+}
